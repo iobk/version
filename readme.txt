@@ -8,3 +8,5 @@ master + green merged
 master add line 4
 red branch
 red add line 2
+master + green + red merged 
+master add line 5
