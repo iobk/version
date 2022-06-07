@@ -4,3 +4,4 @@ master add line 2
 red branch
 red add line 2
 red add line 3
+red add line 4
