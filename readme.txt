@@ -6,3 +6,5 @@ branch green
 green add line 2
 master + green merged
 master add line 4
+red branch
+red add line 2
