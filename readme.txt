@@ -5,3 +5,4 @@ master add line 3
 branch green
 green add line 2
 master + green merged
+master add line 4
